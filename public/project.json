@@ -1,0 +1,39 @@
+{
+    "project":[
+        {
+            "id":1,
+            "title":"Flight Ticket Booking",
+            "link":"https://sakthimugureact.github.io/FlightTicketBooking/",
+            "imgs":"/images/flight.PNG",
+            "description":"A Flight Ticket Booking website made using HTML, CSS, JS and its frontend project"
+        },
+        {
+            "id":2,
+            "title":"AWN HARDWARES",
+            "link":"https://sakthimugureact.github.io/avnhardware/",
+            "imgs":"/images/awn.PNG",
+            "description":"A AWN HARDWARES website made using HTML, CSS, JS and its frontend project"
+        },
+        {
+            "id":3,
+            "title":"Online Food Ordering",
+            "link":"https://food-orpin-ten.vercel.app/",
+            "imgs":"/images/food.PNG",
+            "description":"An Online Food Ordering website made using HTML, CSS, Bootstrap , JS and React "
+        },
+        {
+            "id":4,
+            "title":"Praken Photography",
+            "link":"https://prakanphotography.vercel.app/",
+            "imgs":"/images/photography.PNG",
+            "description":"An Praken Photography website made using HTML, CSS, Bootstrap , JS and React "
+        },
+        {
+            "id":5,
+            "title":"Online Jewellery",
+            "link":"https://goldshop-nu.vercel.app/",
+            "imgs":"/images/gold.PNG",
+            "description":"An Online Jewellery website made using HTML, CSS, Bootstrap , JS and React "
+        }
+    ]
+}
