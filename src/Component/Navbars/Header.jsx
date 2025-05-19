@@ -28,7 +28,7 @@ function Header() {
           <NavLink className="text-light text-decoration-none" aria-current="page">Contact</NavLink>
         </li>
       </ul>
-      <button className='btn btn-light fw-bold px-3 py-1 me-3 fs-6'>DOWNLOAD CV</button>
+      <button className='btn btn-light fw-bold px-3 py-1 me-3 fs-6'><a href="/Resume.pdf" download={true} className='text-decoration-none'>DOWNLOAD CV</a></button>
     </div>
   </div>
 </nav>
