@@ -6,10 +6,11 @@ import Tech from "./Tech";
 import Project from "./Project"
 import Contact from "./Contact"
 import Footer from "./Footer"
+import { HashLink } from "react-router-hash-link";
 
 function Home() {
   return (
-    <div className="homepage">
+    <div className="homepage" id="home">
       <div className="container  mx-auto">
         <div className="row ror">
           <div className="col-md-6 d-flex flex-column justify-content-center gap-2 ps-5">
@@ -32,7 +33,7 @@ function Home() {
       repeat={Infinity}
     />
     </h4>
-    <button className="btn cm btn-primary fs-4 fw-bold py-1 w-25 mt-3">Contact</button>
+    <button className="btn cm btn-primary fs-4 fw-bold py-1 w-25 mt-3"><HashLink to={"#contact"} className="text-light fs-4 fw-bold text-decoration-none">Contact</HashLink></button>
           </div>
           <div className="col-md-6">
             <img src="/images/working.png" className="d-block mx-auto img-fluid" alt="" />

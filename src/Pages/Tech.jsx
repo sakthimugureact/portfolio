@@ -2,7 +2,7 @@ import React from 'react'
 
 function Tech() {
   return (
-    <div className="container mx-auto py-5">
+    <div className="container mx-auto py-5" id='tech'>
         <h1 className="text-center text-primary fw-bold display-2 mb-4 namess">Tech Stack</h1>
         <h2 className="text-center mb-5 pb-2">Technologies I've been working with currently</h2>
         

@@ -10,7 +10,7 @@ function Project() {
   return (
     <>
     
-     <div className="container projects-container mx-auto">
+     <div className="container projects-container mx-auto" id='project'>
         <h1 className="projects-title namess text-primary">Projects</h1>
         <p className="projects-subtitle fw-bold fs-3 mb-5 pb-3">Things I've built so far</p>
         
