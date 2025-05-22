@@ -46,7 +46,13 @@ function Contact() {
             </div>
             
             <div className="col-lg-6 d-flex justify-content-center">
-                <img src="/images/contact.png" alt="Contact Illustration" className="contact-image" />
+    
+    <div className="mx-auto mb-4 p-4 border rounded bg-white shadow" style={{ maxWidth: "600px" }}>
+      <h5 className="text-primary mb-3">My Contact Details</h5>
+      <p className='text-dark'><strong>Email:</strong> mugu.7533@gmail.com</p>
+      <p className='text-dark'><strong>Phone:</strong> +91 7639027885</p>
+      <p className='text-dark'><strong>Linked in:</strong>Mugunthan M</p>
+</div>
             </div>
         </div>
     </div></>
