@@ -36,7 +36,7 @@ function Home() {
     <button className="btn cm btn-primary fs-4 fw-bold py-1 w-25 mt-3"><HashLink to={"#contact"} className="text-light fs-4 fw-bold text-decoration-none">Contact</HashLink></button>
           </div>
           <div className="col-md-6">
-            <img src="/images/working.png" className="d-block mx-auto img-fluid" alt="" />
+            <img src="/images/dp4.jpg" className="d-block mx-auto w-100 img-fluid" alt="" />
           </div>
         </div>
       </div>
